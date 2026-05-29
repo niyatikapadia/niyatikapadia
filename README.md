@@ -43,5 +43,5 @@ Git · Linux · Kaggle · Google Colab
 
 ## 📫 Get in touch
 
-💼 [LinkedIn](https://linkedin.com/in/niyatikapadia) · 📧 Open to opportunities in AI/ML engineering and computer vision
+💼 [LinkedIn](https://www.linkedin.com/in/niyati-nikunj-k-ab47861a4/) · 🌐 [Portfolio](https://niyatinikunjkapadia.wixsite.com/portfolio) · 📧 Open to opportunities in AI/ML engineering and computer vision
 
